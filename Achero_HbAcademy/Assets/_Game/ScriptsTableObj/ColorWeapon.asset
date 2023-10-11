@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 959186381f340864ba907b00ee63c276, type: 3}
+  m_Name: ColorWeapon
+  m_EditorClassIdentifier: 
+  weaponObj:
+  - {fileID: 2436511455121404370, guid: 2630322516ea1c044a524bfeff934067, type: 3}
+  - {fileID: 8821477810506962735, guid: 0869ef1b636ee65428880599c8629d0e, type: 3}
+  - {fileID: 5114497056714715584, guid: 158a127c54ed077489d498fe4a2153a2, type: 3}
+  - {fileID: -3819807984637362709, guid: b23551b4348af5d4f82de107e3711245, type: 3}
+  weaponType: 0

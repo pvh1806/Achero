@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48d6a524960a7f94094bb5ff9db22395, type: 3}
+  m_Name: ColorBullet
+  m_EditorClassIdentifier: 
+  bulletObj:
+  - {fileID: -6442690969348509451, guid: 29dc5597e80afdd4c80c9b62de63cc87, type: 3}
+  - {fileID: -3440838810289374126, guid: e33d23f12f268d847a6bbd7dc1c558be, type: 3}
+  - {fileID: -8954293878935125309, guid: b8fb33d44dd4f454190439b6973b7ed0, type: 3}
+  - {fileID: -4387711064902989643, guid: a504e67507c59ca4cbf2e40d62e6aec6, type: 3}
+  bulletType: 0
